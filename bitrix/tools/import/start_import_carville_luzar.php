@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/import/admin/carville/start_import_carville_luzar.php");?>
